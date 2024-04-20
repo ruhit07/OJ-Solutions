@@ -11,3 +11,4 @@ The solutions are mostly programmed with `C`, `C++`, `JavaScript`, `Sql`.
 
 #### Authors
 **[Ruhit Hassan](https://www.linkedin.com/in/ruhit-hassan/)**  
+`Dept of CSE, EUB.`
