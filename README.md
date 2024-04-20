@@ -10,4 +10,4 @@ This package contains my solutions to the problems in different online-judges.
 The solutions are mostly programmed with `C`, `C++`, `JavaScript`, `Sql`.
 
 #### Authors
-**[Ruhit Hassan](https://github.com/ruhit07)**  
+**[Ruhit Hassan](https://www.linkedin.com/in/ruhit-hassan/)**  
